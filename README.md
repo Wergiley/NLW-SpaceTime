@@ -2,7 +2,7 @@
 Evolua em programação para além de todas as dimensões: construa um projeto completo em um curto espaço de tempo, explore novas tecnologias e leve suas habilidades, código e carreira para o próximo nível.🚀
 
 # Cronograma: 
-<img src="cronograma.png" width="200px" align="right">
+<img src="cronograma.png" width="500px">
 
 # Trilha Ignite
 
