@@ -1,3 +1,8 @@
+# Aulas: 
+## Aula 01 - Iniciando o projeto de ponta a ponta
+É hora de decolar e partir rumo ao próximo nível. Esse é o começo da nossa missão onde você vai preparar o setup do ambiente e conhecer fundamentos do React, Next.js, Node.js e TailwindCSS.
+## Aula 02 - Avançando o back-end e Front-end
+A decolagem foi um sucesso e agora é hora de avançar com velocidade máxima rumo ao objetivo da missão. Nessa aula vamos fazer a implementação do layout web & mobile e criar a base do back-end.
 <p align="center">
   <img alt="Rocketseat Education" src="https://avatars.githubusercontent.com/u/69590972?s=200&v=4" width="100px" />
 </p>
