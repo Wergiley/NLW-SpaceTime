@@ -37,6 +37,10 @@ Material complementar utilizado no evento NLW 12, para a Trilha Ignite.
 
 [https://app.rocketseat.com.br/events/nlw-spacetime/ignite/aula-2](https://app.rocketseat.com.br/events/nlw-spacetime/ignite/aula-2)
 
+**Aula 03**
+
+[https://app.rocketseat.com.br/events/nlw-spacetime/ignite/aula-3](https://app.rocketseat.com.br/events/nlw-spacetime/ignite/aula-3)
+
 ## Links úteis
 
 [Cápsula do tempo • Trilha Ignite](https://www.figma.com/community/file/1240070456276424762)
