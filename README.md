@@ -54,6 +54,10 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 [https://app.rocketseat.com.br/events/nlw-spacetime/ignite/aula-3](https://app.rocketseat.com.br/events/nlw-spacetime/ignite/aula-3)
 
+**Aula 04**
+
+[https://app.rocketseat.com.br/events/nlw-spacetime/ignite/aula-4](https://app.rocketseat.com.br/events/nlw-spacetime/ignite/aula-4)
+
 ## Links úteis
 
 [Cápsula do tempo • Trilha Ignite](https://www.figma.com/community/file/1240070456276424762)
