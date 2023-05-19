@@ -32,4 +32,34 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
   </a>
 </p>
 
+<<<<<<< HEAD
 <!--END_SECTION:footer-->
+=======
+</aside>
+
+[GitHub - rocketseat-education/nlw-12-spacetime-ignite: Aplicação de recordação de memórias desenvolvida no NLW 12](https://github.com/rocketseat-education/nlw-12-spacetime-ignite)
+
+## Aulas
+
+**Aula 01**
+
+[https://app.rocketseat.com.br/events/nlw-spacetime/ignite/aula-1](https://app.rocketseat.com.br/events/nlw-spacetime/ignite/aula-1)
+
+**Aula 02**
+
+[https://app.rocketseat.com.br/events/nlw-spacetime/ignite/aula-2](https://app.rocketseat.com.br/events/nlw-spacetime/ignite/aula-2)
+
+**Aula 03**
+
+[https://app.rocketseat.com.br/events/nlw-spacetime/ignite/aula-3](https://app.rocketseat.com.br/events/nlw-spacetime/ignite/aula-3)
+
+## Links úteis
+
+[Cápsula do tempo • Trilha Ignite](https://www.figma.com/community/file/1240070456276424762)
+
+[Rocketseat Docs | Ambiente React Native](https://react-native.rocketseat.dev/)
+
+## Arquivos extras:
+
+![Favicon](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ef4d7a33-eb32-4e83-8f45-7c3bb87119ff/favicon.png)
+>>>>>>> 0ed62e17da927dcdb19055a0fd7e8fb0e27b6c9f
