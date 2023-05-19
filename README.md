@@ -16,7 +16,8 @@ Aplicação de recordação de memórias, onde o usuário poderá adicionar à u
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ---
-
+## Cronograma:
+<img src="cronograma.png" width="500px">
 <p align="center">
   Feito com 💜 by Rocketseat
 </p>
